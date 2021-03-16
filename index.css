@@ -1,0 +1,42 @@
+body{
+    background:  lightgrey  ;
+}
+.card{
+    text-align: center;
+    background: white;
+    margin: auto;
+    height: 400px;
+    width: 200px;
+    padding: 20px;
+    border-radius: 20px;
+    position: relative;
+
+}
+    
+
+.top-suit{
+         position: absolute;
+        top: 10px;
+        left: 10px;
+        padding:0px;
+}
+
+
+.bottom-suit{
+      
+        position: absolute;
+        bottom: 1px;
+        right: 1px;
+        padding: 15px;
+        
+}
+
+.suit{
+
+     position: absolute;
+        top: 60px;
+        left: 10px;
+        padding: 100px;
+}
+
+
